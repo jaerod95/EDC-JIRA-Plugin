@@ -2,7 +2,7 @@
      "name": "EDC Jira Plugin",
      "description": "A simple Plugin for Esai Design Co",
      "key": "com.esaidesignco.jira-plugin",
-     "baseUrl": "https://<placeholder-url>",
+     "baseUrl": "https://jaerod95.github.io/EDC-JIRA-Plugin",
      "vendor": {
          "name": "Esai Design Co",
          "url": "http://esaidesignco.com"
