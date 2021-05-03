@@ -1,0 +1,26 @@
+  {
+     "name": "EDC Jira Plugin",
+     "description": "A simple Plugin for Esai Design Co",
+     "key": "com.esaidesignco.jira-plugin",
+     "baseUrl": "https://<placeholder-url>",
+     "vendor": {
+         "name": "Esai Design Co",
+         "url": "http://esaidesignco.com"
+     },
+     "authentication": {
+         "type": "none"
+     },
+     "apiVersion": 1,
+     "modules": {
+         "generalPages": [
+             {
+                 "url": "/home.html",
+                 "key": "hello-world",
+                 "location": "system.top.navigation.bar",
+                 "name": {
+                     "value": "Greeting"
+                 }
+             }
+         ]
+     }
+}
